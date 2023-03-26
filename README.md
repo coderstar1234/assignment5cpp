@@ -1,10 +1,4 @@
 
-
-Himanshu Vashistha
-Above code related make a readme file for GitHub.
-
-Sure, here's a sample readme file for GitHub related to the code:
-
 Conditional Statements and Loops in C++
 This repository contains a C++ program that performs conditional actions on an integer input M and reverses the digits of M.
 
