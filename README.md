@@ -35,6 +35,7 @@ Run the program:
 <h3 align="center" >Copy code</h3>
 
 ./program
+<br>
 Enter an integer M as input when prompted.
 
 The program will perform the following conditional actions on M:
