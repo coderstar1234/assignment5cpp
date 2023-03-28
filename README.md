@@ -14,8 +14,9 @@
 <h2 align="center" >Bash📖</h2>
 <h3 align="center" >Copy code✏️</h3>
 
-git clone:-
-https://github.com/<your_username>/conditional-statements-and-loops-cpp.git
+<h3 align="center" >git clone:-</h3>
+
+https://github.com:your_username>/conditional-statements-and-loops-cpp.git
 
 - Change the working directory to the cloned directory:
 
