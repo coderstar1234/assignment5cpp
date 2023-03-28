@@ -16,7 +16,7 @@
 
 <h3 align="center" >git clone:-</h3>
 
-https://github.com:your_username>/conditional-statements-and-loops-cpp.git
+<p align="center"> https://github.com:your_username>/conditional-statements-and-loops-cpp.git</p>
 
 - Change the working directory to the cloned directory:
 
