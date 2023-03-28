@@ -35,17 +35,25 @@ Run the program:
 <h2 align="center" >Bash📖</h2>
 <h3 align="center" >Copy code✏️</h3>
 
-./program
+<h3 align="center" >program:</h3>
+
 <br>
-Enter an integer M as input when prompted.
+<p align="center">Enter an integer M as input when prompted.</p>
+  <br>
 
-The program will perform the following conditional actions on M:
+- The program will perform the following conditional actions on M:
+  <br>
 
-If M is a multiple of 3 and 5, it will print "Good Number".
-If M is a multiple of 3 only, it will print "Bad Number".
-If M is a multiple of 5 only, it will print "Poor Number".
-If M is not a multiple of 3 or 5, it will print "-1".
-The program will then reverse the digits of M and print the reversed number.
+- If M is a multiple of 3 and 5, it will print "Good Number".<br>
+
+- If M is a multiple of 3 only, it will print "Bad Number".<br>
+
+- If M is a multiple of 5 only, it will print "Poor Number".<br>
+
+- If M is not a multiple of 3 or 5, it will print "-1".<br>
+
+- The program will then reverse the digits of M and print the reversed number.<br>
+
 <hr>
 <h1 align="center" >License📙:-</h1>
 
