@@ -2,6 +2,7 @@
 <h1 align="center" >Conditional Statements and Loops in C++👩‍💻:-</h1>
 
 - This repository contains a C++ program that performs conditional actions on an integer input M and reverses the digits of M.
+https://res.cloudinary.com/practicaldev/image/fetch/s--it7aWv4F--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjdim9k4525gck7ko2hk.gif
 <hr>
 <h1 align="center" >Requirements📝:-</h1>
 
